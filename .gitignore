@@ -39,3 +39,33 @@
 
 # debug information files
 *.dwo
+
+
+# ==========================================
+# C/C++ & Embedded Build Files (컴파일 찌꺼기)
+# ==========================================
+*.o
+*.obj
+*.out
+*.elf
+*.hex
+*.bin
+*.a
+*.lib
+
+# 빌드 출력 폴더
+build/
+bin/
+out/
+Debug/
+Release/
+
+# ==========================================
+# IDE & OS Files (에디터 및 운영체제 찌꺼기)
+# ==========================================
+.vscode/
+.idea/
+*.suo
+*.user
+.DS_Store
+Thumbs.db
