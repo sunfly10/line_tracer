@@ -1,5 +1,5 @@
 //https://youtu.be/7Vwpv0AkzIM?si=zFL_LHnOIKnRoF25
-//강준서:100% 유승현:100% 최민석:100%
+
 #include <stdint.h> //uint, int형 비트 명시를 위해 사용
 //속도 관련 설정
 #define base_speed 5000 //차체의 기본 속도    ;5000 = 14.3s ;  4500 = 15.69   ; 4000 =  17.5  ; 3500  =  19.5 ;
